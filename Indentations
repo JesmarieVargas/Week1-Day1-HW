@@ -1,0 +1,18 @@
+# Task 1
+
+weather = "sunny"
+
+if weather == "sunny": # Is the weather equal to sunny
+    print("Wear sunglasses!") # If the weather is sunny print wear sunglasses.
+else:
+    print("Take an umbrella!") # If the weather is not sunny print take an umbrella.
+
+# Task 2
+
+user_input = input("How are you feeling today?:") # User inputs there feeling
+print(user_input)
+
+if user_input == "happy":
+    print("That's great to hear!")
+elif user_input == "sad":
+    print("I hope your day gets better!")
